@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm Ahmed Belal, a computer science student passionate abo
 
 ---
 
-## 📌 Highlights
+## Highlights
 
 - Projects include task managers, online stores, calendar tools, and educational utilities
 - Focused on:
